@@ -19,8 +19,19 @@ int main2(int argc, char **argv) {
 int main(int argc, char **argv) {
     if (DEBUG)cout << "You have entered " << argc << " arguments:" << "\n";
 
-
-
+    if (strcmp(argv[1], "-h") == 0) {
+        printf("     __.__  __   \n"
+               "    |__|__|/  |_ \n"
+               "    |  |  \\   __\\\n"
+               "    |  |  ||  |  \n"
+               "/\\__|  |__||__|  \n"
+               "\\______|         ");
+        printf("\n---git extension by Jacopo---\n\n");
+        printf("jit add-commit [message]\t\tadd all and commit\n");
+        printf("jit add-commit-push [message]\t\tadd all, commit and push in tracked remote branch\n");
+        printf("jit merge-into [local-branch-name]\tmerge current branch into specified local branch\n");
+        return 0;
+    }
     if (strcmp(argv[1], "add-commit") == 0) {
         if (DEBUG)
             printf("addcommit\n");

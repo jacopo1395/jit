@@ -11,7 +11,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="098daf2a-e84f-4660-a4dd-2b70209b5df5" name="Default Changelist" comment="" />
+    <list default="true" id="098daf2a-e84f-4660-a4dd-2b70209b5df5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/jit.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/jit.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/jit.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/jit.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/jit.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/jit.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +28,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TphYQHLQETBFQaHcdy9B8otgbY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -40,7 +50,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="jit" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="merge-into develop" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jit" TARGET_NAME="jit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jit" RUN_TARGET_NAME="jit">
+    <configuration name="jit" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="-h" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jit" TARGET_NAME="jit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jit" RUN_TARGET_NAME="jit">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -56,11 +66,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574162991097</updated>
-      <workItem from="1574162994387" duration="12466000" />
+      <workItem from="1574162994387" duration="13403000" />
+      <workItem from="1574431169487" duration="501000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
