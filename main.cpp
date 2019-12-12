@@ -47,7 +47,7 @@ int main(int argc, char **argv) {
         char buffer[50];
         sprintf(buffer, "git commit -m\"%s\"", argv[2]);
         system(buffer);
-        sprintf(buffer, "git push");
+        sprintf(buffer, "git push %s",argv[3]);
         system(buffer);
         return 0;
     }

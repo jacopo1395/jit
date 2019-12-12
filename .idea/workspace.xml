@@ -13,9 +13,6 @@
   <component name="ChangeListManager">
     <list default="true" id="098daf2a-e84f-4660-a4dd-2b70209b5df5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/jit.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/jit.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/jit.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/jit.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/jit.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/jit.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,7 +64,8 @@
       <option name="presentableId" value="Default" />
       <updated>1574162991097</updated>
       <workItem from="1574162994387" duration="13403000" />
-      <workItem from="1574431169487" duration="501000" />
+      <workItem from="1574431169487" duration="1132000" />
+      <workItem from="1576158614602" duration="799000" />
     </task>
     <servers />
   </component>
